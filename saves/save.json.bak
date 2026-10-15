@@ -1,0 +1,36 @@
+{
+ "version": 1,
+ "saved_at": 1792009228.5816224,
+ "play_time": 0.0,
+ "music_on": true,
+ "story": {
+  "intro_done": true,
+  "objective": "Resgate seu pai: siga a estrada a leste até o Acampamento Goblin"
+ },
+ "player": {
+  "level": 1,
+  "xp": 0,
+  "max_hp": 100,
+  "hp": 100,
+  "hunger": 100,
+  "coins": 30,
+  "kills": 0,
+  "position": [
+   -5.6,
+   0.0,
+   -2.8
+  ],
+  "yaw": 60.0,
+  "camera_yaw": 60.0,
+  "inventory": {
+   "espada_madeira": 1
+  },
+  "equipped": "espada_madeira"
+ },
+ "world": {
+  "seed": 7,
+  "node_count": 311,
+  "nodes": [],
+  "coins": []
+ }
+}
